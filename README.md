@@ -18,6 +18,7 @@ Una aplicación web es un programa informático que se ejecuta en un navegador w
 Una herramienta ofimática es un software diseñado para realizar tareas de oficina, como procesamiento de texto, creación de hojas de cálculo, elaboración de presentaciones y gestión de documentos, facilitando el trabajo en entornos empresariales y educativos.
 
 5.	Herramientas de Google:
+
 |Aplicaciones | Visto |
 |----------|----------:|
 |Google Docs|✔|
