@@ -53,3 +53,4 @@ content="width=device-width, initial-scale=1.0">
 CSS, siglas de "Cascading Style Sheets" (Hojas de Estilo en Cascada), es un lenguaje de programación utilizado en desarrollo web para controlar el aspecto y el formato visual de las páginas HTML, permitiendo definir estilos como colores, fuentes, márgenes y disposición de elementos.
 
 
+![U+200E](https://github.com/brixxmarcus66/SMX2M8UF1A2/blob/main/foto.jpg "imagen")
